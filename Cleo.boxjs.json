@@ -35,7 +35,7 @@
       "scripts": [
         {
           "name": "初始账号",
-          "script": "https://raw.githubusercontent.com/dompling/Script/master/xmSportsCookieTask.js"
+          "script": "https://raw.githubusercontent.com/CLeo1984/Script/main/xmSportsCookieTask.js"
         },
         {
           "name": "同步设备",
