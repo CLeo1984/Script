@@ -2,7 +2,7 @@
   "id": "xxmiyyds",
   "name": "Cleo 应用订阅",
   "author": "@Cleo1984",
-  "icon": "https://github.com/CLeo1984/icon/blob/main/97061D40-8C7E-47B5-95E5-EF6A8AC6D2B8.png",
+  "icon": "https://github.com/CLeo1984/icon/blob/main/97061D40-8C7E-47B5-95E5-EF6A8AC6D2B8.png?raw=true",
   "repo": "https://github.com/CLeo1984/Script",
   "apps": [
     {
@@ -29,8 +29,8 @@
         }
       ],
       "icons": [
-        "https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png",
-        "https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png"
+        "https://github.com/CLeo1984/icon/blob/main/34315673-4BE2-46C7-9801-6E50FA2D3A96.png/?raw=true",
+        "https://github.com/CLeo1984/icon/blob/main/34315673-4BE2-46C7-9801-6E50FA2D3A96.png/?raw=true"
       ],
       "scripts": [
         {
