@@ -9,7 +9,7 @@
       "id": "xmSports",
       "name": "多账号运动",
       "keys": ["@xmSports.token", "@xmSports.minStep", "@xmSports.maxStep"],
-      "author": "@dompling",
+      "author": "@Cleo1984",
       "settings": [
         {
           "id": "@xmSports.minStep",
